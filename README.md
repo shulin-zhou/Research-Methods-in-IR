@@ -3,11 +3,13 @@
 ## Introduction
 The purpose of this book is to introduce the commonly used research methods in institutional research field.
 
-## Chapter 1: Data
+## Part I
+
+### Chapter 1: Data
 - Data types
 - file formats
 
-## Chapter 2: Data Processing
+### Chapter 2: Data Processing
 - Read and Output Data
 - Variable Types
 - Select row and columns
@@ -15,15 +17,16 @@ The purpose of this book is to introduce the commonly used research methods in i
 - Join datasets
 - Random sampling
 
-## Chapter 3: Descriptive Analysis and Data Visualization
+### Chapter 3: Descriptive Analysis and Data Visualization
 - distribution, location, variation
 - histogram, bar graph, pie chart, scatter plot, line chart
 - min, quantile, mean, median, mode, IQR, max, outliers, box plot
 - causation, correlation, covariance
 - normal distribution and data transformation
 
+## Part II
 
-## Chapter 4: Inferential Statistics
+### Chapter 4: Inferential Statistics
 - sampling distribution
 - confidence interval
 - hypothesis testing
@@ -35,8 +38,9 @@ The purpose of this book is to introduce the commonly used research methods in i
 - Chi sq test,
 - Non-parametric methods, mann-whitney U test, wilcoxon signed-rank test
   
+## Part III
 
-## Chapter 5: Predictive Modelling
+### Chapter 5: Predictive Modelling
 - Simple linear regression
 - Multiple linear regression
 - Logistic regression
@@ -52,6 +56,7 @@ The purpose of this book is to introduce the commonly used research methods in i
 - Discriminant Analysis
 - Structural Equation Modelling
 
+## Part IV
 
 ## Chapter 6: Other Topics
 - Text mining / sentiment analysis
